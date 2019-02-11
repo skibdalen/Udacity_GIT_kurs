@@ -285,6 +285,6 @@ def statistics():
 
 if __name__ == "__main__":
 	statistics()
-	#This is the second change. I change in the PY code
+	#This is the second change. I change in the PY code. Tested from computer
 	# Thanks to colleagues, stackoverflow.com and Udacity to get me through this projeckt :)
 
