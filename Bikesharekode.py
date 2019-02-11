@@ -285,6 +285,14 @@ def statistics():
 
 if __name__ == "__main__":
 	statistics()
+<<<<<<< HEAD
 	#This is the second change. I change in the PY code. Tested from computer
+||||||| merged common ancestors
+	
+=======
+	
+	#This is the second change in git project
+>>>>>>> eac30365d515e0493c6e4d22796de696d9b9ccf5
 	# Thanks to colleagues, stackoverflow.com and Udacity to get me through this projeckt :)
+	
 
