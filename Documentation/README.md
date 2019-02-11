@@ -15,3 +15,4 @@ Readme.md
 
 ### Credits
 Thanks to Udacity 
+Change 1 is her. And I Think I will try to change in the python code to 
