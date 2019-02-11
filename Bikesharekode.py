@@ -286,5 +286,6 @@ def statistics():
 if __name__ == "__main__":
 	statistics()
 	
+	This is the second change in git project
 	# Thanks to colleagues, stackoverflow.com and Udacity to get me through this projeckt :)
 
